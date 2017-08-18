@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArray">
+        <item>English</item>
+        <item>ไทย</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>EN</item>
+        <item>TH</item>
+    </string-array>
+
+    <string-array name="listArray_ENDPOINT">
+        <item>ปิด</item>
+        <item>เปิด</item>
+    </string-array>
+
+    <string-array name="listValues_ENDPOINT">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+</resources>

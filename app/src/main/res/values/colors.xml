@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="background_color">#353030</color>-->
+    <color name="background_color">#d1d1d1</color>
+    <!--<color name="background_color">#274751</color>-->
+    <color name="background_light_dark">#A2A2A2</color>
+    <color name="party_blue">#3784bf</color>
+    <color name="dark_blue">#004f6c</color>
+</resources>

@@ -1,0 +1,28 @@
+<menu
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/download"
+        android:icon="@android:drawable/stat_sys_download"
+        app:showAsAction="ifRoom"
+        android:title="@string/download" />
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/setting">
+    </item>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/about">
+    </item>
+
+    <!--<item
+        android:id="@+id/exit"  app:showAsAction="never" android:title="@string/exit">
+    </item>-->
+</menu>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\active.png",
+        "source": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\src\\main\\res\\drawable-mdpi\\active.png"
+    },
+    {
+        "merged": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_top.png",
+        "source": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\src\\main\\res\\drawable-mdpi\\app_top.png"
+    },
+    {
+        "merged": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_icon.png",
+        "source": "C:\\Partii-transfer\\Embedded\\Embedded\\Partii2go_mockup_example\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    }
+]

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Partii2Go</string>
+    <string name="action_settings">setting</string>
+    <string name="setting">Setting</string>
+    <string name="add">Add</string>
+    <string name="exit">Exit</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
+    <string name="download">Download</string>
+    <string name="help">Help</string>
+    <string name="title_activity_gobal">Gobal</string>
+    <string name="api_key_setting">API Key Setting</string>
+</resources>
